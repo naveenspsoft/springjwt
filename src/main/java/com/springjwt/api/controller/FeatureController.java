@@ -8,4 +8,7 @@ public class FeatureController {
 	public void getProductById() {
 		
 	}
+	public void updateProductById() {
+		
+	}
 }
