@@ -14,4 +14,7 @@ public class FeatureController {
 	public void deleteProductById() {
 		
 	}
+	public void syncProduct() {
+		
+	}
 }
