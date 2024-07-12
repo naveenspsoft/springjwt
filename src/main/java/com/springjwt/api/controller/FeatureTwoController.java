@@ -11,5 +11,8 @@ public class FeatureTwoController {
 	public void updateNameById() {
 		
 	}
+	public void deleteNameById() {
+		
+	}
 
 }
