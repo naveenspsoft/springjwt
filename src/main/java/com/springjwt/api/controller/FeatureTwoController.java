@@ -8,5 +8,8 @@ public class FeatureTwoController {
 	public void getNameById() {
 		
 	}
+	public void updateNameById() {
+		
+	}
 
 }
