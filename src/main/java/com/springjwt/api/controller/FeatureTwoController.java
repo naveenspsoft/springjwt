@@ -18,4 +18,7 @@ public class FeatureTwoController {
 		
 	}
 
+	public void updateDate() {
+		
+	}
 }
