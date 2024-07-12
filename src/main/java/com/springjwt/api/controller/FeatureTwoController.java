@@ -14,5 +14,8 @@ public class FeatureTwoController {
 	public void deleteNameById() {
 		
 	}
+	public void syncNames() {
+		
+	}
 
 }
