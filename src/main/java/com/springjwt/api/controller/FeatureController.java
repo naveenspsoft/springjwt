@@ -11,4 +11,7 @@ public class FeatureController {
 	public void updateProductById() {
 		
 	}
+	public void deleteProductById() {
+		
+	}
 }
