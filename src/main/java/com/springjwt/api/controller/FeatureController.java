@@ -5,4 +5,7 @@ public class FeatureController {
 	public void getProducts() {
 		
 	}
+	public void getProductById() {
+		
+	}
 }
