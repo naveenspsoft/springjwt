@@ -5,5 +5,8 @@ public class FeatureTwoController {
 	public void getNames() {
 		
 	}
+	public void getNameById() {
+		
+	}
 
 }
